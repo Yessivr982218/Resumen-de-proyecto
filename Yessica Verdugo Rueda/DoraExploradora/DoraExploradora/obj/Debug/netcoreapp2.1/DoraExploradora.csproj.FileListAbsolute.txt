@@ -1,0 +1,22 @@
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\bin\Debug\netcoreapp2.1\DoraExploradora.deps.json
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\bin\Debug\netcoreapp2.1\DoraExploradora.runtimeconfig.json
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\bin\Debug\netcoreapp2.1\DoraExploradora.runtimeconfig.dev.json
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\bin\Debug\netcoreapp2.1\DoraExploradora.dll
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\bin\Debug\netcoreapp2.1\DoraExploradora.pdb
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.csprojAssemblyReference.cache
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.csproj.CoreCompileInputs.cache
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.AssemblyInfoInputs.cache
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.AssemblyInfo.cs
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.dll
+C:\Users\Yessi\Documents\7mo\Pruebas de software\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.pdb
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\bin\Debug\netcoreapp2.1\DoraExploradora.deps.json
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\bin\Debug\netcoreapp2.1\DoraExploradora.runtimeconfig.json
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\bin\Debug\netcoreapp2.1\DoraExploradora.runtimeconfig.dev.json
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\bin\Debug\netcoreapp2.1\DoraExploradora.dll
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\bin\Debug\netcoreapp2.1\DoraExploradora.pdb
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.csprojAssemblyReference.cache
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.csproj.CoreCompileInputs.cache
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.AssemblyInfoInputs.cache
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.AssemblyInfo.cs
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.dll
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Yessica Verdugo Rueda\DoraExploradora\DoraExploradora\obj\Debug\netcoreapp2.1\DoraExploradora.pdb

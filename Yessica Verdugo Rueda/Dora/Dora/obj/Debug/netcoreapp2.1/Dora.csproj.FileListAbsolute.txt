@@ -1,0 +1,11 @@
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\obj\Debug\netcoreapp2.1\Dora.csprojAssemblyReference.cache
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\obj\Debug\netcoreapp2.1\Dora.csproj.CoreCompileInputs.cache
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\obj\Debug\netcoreapp2.1\Dora.AssemblyInfoInputs.cache
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\obj\Debug\netcoreapp2.1\Dora.AssemblyInfo.cs
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\bin\Debug\netcoreapp2.1\Dora.deps.json
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\bin\Debug\netcoreapp2.1\Dora.runtimeconfig.json
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\bin\Debug\netcoreapp2.1\Dora.runtimeconfig.dev.json
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\bin\Debug\netcoreapp2.1\Dora.dll
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\bin\Debug\netcoreapp2.1\Dora.pdb
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\obj\Debug\netcoreapp2.1\Dora.dll
+C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora\Dora\obj\Debug\netcoreapp2.1\Dora.pdb

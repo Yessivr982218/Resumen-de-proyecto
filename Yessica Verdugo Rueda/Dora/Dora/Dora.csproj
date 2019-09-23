@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Yessi\Documents\7mo\Pruebas de software\Dora_Error.cs" Link="Dora_Error.cs" />
+  </ItemGroup>
+
+</Project>
